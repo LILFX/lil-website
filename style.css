@@ -1,0 +1,20 @@
+.h1{
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    padding-left: 50px;
+    
+}
+*{
+    background-image: url(IMAGES/WTF.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    padding: 0px;
+border: 0px;    
+}
+.F{
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+}
